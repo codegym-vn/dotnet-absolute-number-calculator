@@ -1,0 +1,8 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/absolute-number-calculator/AbsoluteCalculator.Service/bin/Debug/netstandard2.0/AbsoluteCalculator.Service.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/absolute-number-calculator/AbsoluteCalculator.Service/bin/Debug/netstandard2.0/AbsoluteCalculator.Service.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/absolute-number-calculator/AbsoluteCalculator.Service/bin/Debug/netstandard2.0/AbsoluteCalculator.Service.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/absolute-number-calculator/AbsoluteCalculator.Service/obj/Debug/netstandard2.0/AbsoluteCalculator.Service.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/absolute-number-calculator/AbsoluteCalculator.Service/obj/Debug/netstandard2.0/AbsoluteCalculator.Service.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/absolute-number-calculator/AbsoluteCalculator.Service/obj/Debug/netstandard2.0/AbsoluteCalculator.Service.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/absolute-number-calculator/AbsoluteCalculator.Service/obj/Debug/netstandard2.0/AbsoluteCalculator.Service.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/absolute-number-calculator/AbsoluteCalculator.Service/obj/Debug/netstandard2.0/AbsoluteCalculator.Service.pdb
